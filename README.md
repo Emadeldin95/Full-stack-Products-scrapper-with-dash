@@ -25,5 +25,11 @@ This project is a web application built using Dash that scrapes product data fro
 
 3. Use the "Start Scraping" button to begin scraping product data. You can stop the process at any time and download the data as an Excel file.
 
+## Screenshot
+Here is a screenshot of the application:
+
+![Application Screenshot](screen%20shot%201.png)
+
 ## License
+
 This project is licensed under the MIT License.
