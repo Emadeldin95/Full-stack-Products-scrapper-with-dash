@@ -1,0 +1,4 @@
+/* Center align text in the footer */
+.navbar-text {
+    margin: 0 auto;
+}

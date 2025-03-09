@@ -1,0 +1,15 @@
+# Ignore data directory
+data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore any other files that should not be shared
+*.xlsx
