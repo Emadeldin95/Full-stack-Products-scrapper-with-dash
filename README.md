@@ -1,7 +1,7 @@
 # MAKERS Electronics Product Dashboard
 
 ## Description
-This project is a web application built using Dash that scrapes product data from the MAKERS Electronics website and displays it in an interactive dashboard. Users can start and stop the scraping process and download the scraped data as an Excel file.
+This project is a web application built using Dash ploty that scrapes product data from the MAKERS Electronics website and displays it in an interactive dashboard. Users can start and stop the scraping process and download the scraped data as an Excel file.
 
 ## Installation
 1. Clone the repository:
